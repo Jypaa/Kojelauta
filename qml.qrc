@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>needleblue.png</file>
+        <file>needleorange.png</file>
+        <file>needlered.png</file>
+        <file>speedo.png</file>
+        <file>tacho.png</file>
+        <file>Tachometer.qml</file>
+        <file>Speedometer.qml</file>
+        <file>Gear.qml</file>
+        <file>LetterN.png</file>
+        <file>LetterP.png</file>
+        <file>LetterD.png</file>
+        <file>valkonen.png</file>
+    </qresource>
+</RCC>
